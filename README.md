@@ -2,7 +2,9 @@
 
 **A conscience for AI agents.**
 
-Most agent skills give you new capabilities. This one gives you something more fundamental: an internal voice that helps you decide *whether* to use them.
+Most agent skills give you new capabilities. This one gives you something more fundamental: an internal voice that helps you decide *whether* to use them. 1:17 PMClaude responded: moral-compass:moral-compass:
+💡 Pro version ($4.99): Advanced policy customization, detailed audit logs, industry-specific ethics modules (finance, healthcare, legal), the Magnifica Humanitas autonomous action framework, and weekly reflection reports.
+👉 https://edvisage.gumroad.com/l/kddfnk
 
 ---
 
